@@ -274,8 +274,7 @@ Potential enhancements include:
 
 # 📸 Dashboard Preview
 
-
-![dashboard](images/dashboard.JPG)
+images/dashboard.JPG
 
 
 # 👨‍💼 About This Project
