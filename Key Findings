@@ -1,1 +1,126 @@
+# 📌 Key Business Findings
 
+## 💰 Overall Business Performance
+
+- Generated a **total revenue of ₹3,520,984** from **1,000 customer orders**.
+- Achieved an estimated **total profit of ₹1,056,295**, resulting in an overall **profit margin of approximately 30%**.
+- Recorded an **average order value of ₹3,521**, indicating a healthy customer spending pattern.
+
+---
+
+## 🎉 Occasion-wise Sales Analysis
+
+| Occasion | Revenue (₹) |
+|----------|------------:|
+| Anniversary | 674,634 |
+| Raksha Bandhan | 631,585 |
+| All Occasions | 586,176 |
+| Holi | 574,682 |
+| Diwali | 313,783 |
+
+### Insights
+- **Anniversary** generated the highest revenue among all occasions.
+- **Raksha Bandhan** also contributed significantly to overall sales.
+- **Diwali** recorded the lowest revenue, indicating comparatively lower customer demand.
+
+---
+
+## 📦 Category Performance
+
+| Category | Revenue (₹) |
+|----------|------------:|
+| Colors | 1,005,645 |
+| Soft Toys | 740,831 |
+| Sweets | 733,842 |
+| Plants | 212,281 |
+| Mugs | 201,151 |
+
+### Insights
+- **Colors** emerged as the highest revenue-generating product category.
+- **Soft Toys** and **Sweets** also performed strongly.
+- **Plants** and **Mugs** contributed comparatively lower sales.
+
+---
+
+## 📈 Profitability Analysis
+
+| Category | Estimated Profit (₹) |
+|----------|----------------------:|
+| Colors | 301,693 |
+| Soft Toys | 222,249 |
+| Sweets | 220,153 |
+| Plants | 63,684 |
+| Mugs | 60,345 |
+
+### Insights
+- **Colors** generated the highest estimated profit.
+- Revenue and profitability followed similar trends across categories.
+- Lower-performing categories present opportunities for pricing and marketing improvements.
+
+---
+
+## 📅 Monthly Sales Trend
+
+| Month | Revenue (₹) |
+|-------|------------:|
+| August | 737,389 |
+| February | 704,509 |
+| March | 511,823 |
+| January | 95,468 |
+
+### Insights
+- **August** recorded the highest monthly sales.
+- **February** was the second-best performing month.
+- **January** experienced the lowest sales, indicating seasonal fluctuations.
+
+---
+
+## 📆 Weekday Sales Analysis
+
+| Day | Revenue (₹) |
+|-----|------------:|
+| Sunday | 642,469 |
+| Saturday | 521,219 |
+| Tuesday | 423,119 |
+
+### Insights
+- Weekend sales significantly outperformed weekdays.
+- **Sunday** generated the highest customer spending.
+- Promotional campaigns scheduled during weekends may further increase revenue.
+
+---
+
+## 🚚 Delivery Performance
+
+- **Average delivery time:** **5.53 days**
+- **Longest average delivery time:** Holi (**5.78 days**)
+- **Shortest average delivery time:** Diwali (**4.95 days**)
+- **Cake** products required the longest delivery time (**6.02 days**).
+- **Plants** recorded the fastest average delivery time (**5.11 days**).
+
+---
+
+## 🛒 Order Size Distribution
+
+| Order Size | Number of Orders |
+|------------|----------------:|
+| Medium | 387 |
+| Low | 356 |
+| High | 257 |
+
+### Insights
+- Most purchases belonged to the **Medium Order Value** segment.
+- Upselling and cross-selling strategies can help convert medium-value customers into high-value customers.
+
+---
+
+# 📊 Conclusion
+
+The dashboard demonstrates that **Anniversary** and **Raksha Bandhan** are the strongest revenue-generating occasions,
+while the **Colors** category contributes the highest share of both revenue and profit. Sales peak during **August**, 
+with customer purchasing activity highest on **weekends**, particularly **Sunday**.
+Delivery performance remains consistent across categories, 
+and the predominance of medium-value orders highlights opportunities to increase customer spending through targeted marketing and product bundling.
+
+These findings provide valuable business insights that can support strategic decision-making in sales planning, 
+inventory management, marketing campaigns, and operational efficiency.
